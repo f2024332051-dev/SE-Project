@@ -24,6 +24,9 @@ public:
 
 int main(){
     student s1,s2("Ali", 32);
+    student s3("Rayyan", 20);
     s2.display();
+    s3.display();
 return 0;
 }
+
